@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/chess.png</file>
+        <file>res/chess2.png</file>
+        <file>res/chess2s.png</file>
+        <file>res/chess3.png</file>
+        <file>res/chess3s.png</file>
+        <file>res/chess4.png</file>
+        <file>res/chess4s.png</file>
+        <file>res/chess5.png</file>
+        <file>res/chess5s.png</file>
+        <file>res/chess6.png</file>
+        <file>res/chess6s.png</file>
+        <file>res/chessboard.jpg</file>
+        <file>res/chesss.png</file>
+        <file>res/exit_power_quit.png</file>
+        <file>res/fail.png</file>
+        <file>res/pic1.png</file>
+        <file>res/pic2.png</file>
+        <file>res/pic3.png</file>
+        <file>res/pic4.png</file>
+        <file>res/Red-help-book.png</file>
+        <file>res/regulation.png</file>
+        <file>res/win.png</file>
+    </qresource>
+</RCC>
