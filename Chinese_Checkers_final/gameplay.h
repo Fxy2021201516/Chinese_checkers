@@ -6,7 +6,6 @@
 #include <vector>
 #include <QRectF>
 #include <QTimer>
-#include "piece.h"
 //#include"networkserver.h"
 #include "networksocket.h"
 #include"networkdata.h"
