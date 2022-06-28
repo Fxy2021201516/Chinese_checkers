@@ -6,7 +6,6 @@
 #include <vector>
 #include <QRectF>
 #include <QTimer>
-#include "piece.h"
 using namespace std;
 
 namespace Ui {
